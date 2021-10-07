@@ -1,0 +1,5 @@
+### Observable trends on the Heroes of Pymoli pandas homework analysis
+
+1. Most of the players are male and represent 84.03% of the total number of players (484 out of 576). The female gender represents 14.06% of the total number of players. Also, on average females spend more per person per purchase than males ($4.47 for female vs $4.07 for male), however, given the total number of purchases by gender, total purchase value is higher in males.
+2. the "20-24" group age is the largest group age category of players and represents 44.79% percent of the total number of players (258 out of 567). It is also the age group category that generates the most revenue comparing to the other age group categories and this is because of its total number of players.
+3. "Final Critic" is THE famous item as it is the most popular and the most profitable item. In total 13 purchases of this item were made for a total revenue of $59.99. "Final Critic" is closely followed by "Oathbreaker, Last Hope of the Breaking Storm" as the second most popular and profitable item (12 purchases for a total revenue of $50.76).
